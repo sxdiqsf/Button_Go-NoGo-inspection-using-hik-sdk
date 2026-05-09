@@ -4,6 +4,8 @@ __pycache__/
 *.bmp
 *.zip
 
+.gitignore
+
 dataset/
 folder/
 folder_d/
